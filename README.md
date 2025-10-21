@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FilmNestle Web App. You can check out the app at https://github.com/Akash9119/FilmNestle.git<br><br>🌱 I’m currently learning Full Stack Development.<br><br>👨‍💻 All of my projects are available at https://akash-vasava-portfolio.vercel.app/<br><br>💬 Ask me about React, JavaScript, and Version Control.<br><br>📫 How to reach me akashj.vasava@gmail.com | https://www.linkedin.com/in/akash-vasava/
+🔭 I’m currently working on FilmNestle Web App. You can check out the app at https://github.com/Akash9119/FilmNestle.git<br><br>🌱 Currently working on the typescript with react.<br><br>👨‍💻 All of my projects are available at https://akash-vasava-portfolio.vercel.app/<br><br>💬 Ask me about React, JavaScript, and Version Control.<br><br>📫 How to reach me akashj.vasava@gmail.com | https://www.linkedin.com/in/akash-vasava/
 
 
 ## 🌐 Socials:
