@@ -142,13 +142,6 @@ AI-powered CMS with WordPress plugin and GenAI content reports.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash9119&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash9119&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akash9119&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -192,7 +185,5 @@ I'm actively looking for **Full Stack Developer** or **Full Stack + GenAI** role
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 *"The best way to predict the future is to build it."*
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Akash9119&icon=0&color=6)
 
 </div>
